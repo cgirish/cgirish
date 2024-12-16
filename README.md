@@ -1,7 +1,11 @@
-### Hi, I am Girisha 👋
+# Hi, I'm Girisha 👋
 
-**I am a UX Architect, Product Designer, & Front-end Developer.**
+**UX Architect | Product Designer | Front-end Developer**
 
-I previously led multiple teams and projects as Front-end Developer, UI/UX Designer, Product Deigner and UX Architect at [Uber](https://uber.com/), [Wipro](https://www.wipro.com/), [Eronmicro](https://eronmicro.com/), [Tokentech](http://tokentech.in/), [Clear/Cleartax](https://cleartax.in/), [Codemancers](http://codemancers.com), [Castlerock](http://www.castlerockresearch.in/), & [Agiline](http://agiline.com/)
+With extensive experience in leading teams and delivering impactful projects, I specialize in **UX Architecture**, **Product Design**, and **Front-end Development**. My expertise spans across various domains, contributing to the success of renowned organizations including: [Uber](https://uber.com/), [Wipro](https://www.wipro.com/), [Eronmicro](https://eronmicro.com/), [Tokentech](http://tokentech.in/), [ClearTax (Clear)](https://cleartax.in/), [Codemancers](http://codemancers.com), [Castle Rock Research](http://www.castlerockresearch.in/), [Agiline](http://agiline.com/)
 
-Find me on [GitHub](https://github.com/cgirish), [LinkedIn](https://www.linkedin.com/in/cgirish), [Twitter](https://twitter.com/cgirish84), DMs are open!
+I bring a holistic approach to product design and development, ensuring seamless user experiences and robust, scalable solutions.
+
+Feel free to connect with me or explore my work: [GitHub](https://github.com/cgirish), [LinkedIn](https://www.linkedin.com/in/cgirish), [Twitter](https://twitter.com/cgirish84)  
+
+**📬 My DMs are open!**
